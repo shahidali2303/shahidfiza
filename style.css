@@ -1,0 +1,19 @@
+.nav-item {
+  /* background-color: pink; */
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.active {
+  color: #002455 !important;
+}
+/* .navbar-brand {
+  background-color: pink;
+} */
+
+/* .test {
+  width: 100px;
+  height: 100px;
+  background-color: pink;
+  margin: 100px;
+  padding: 100px;
+} */
