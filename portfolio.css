@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* navbar start  */
+.container {
+  padding-right: 60px;
+  padding-left: 60px;
+}
+
+.navbar {
+  display: flex;
+}
+.logo {
+  background-color: pink;
+  padding-top: 10px;
+}
+.nav-links {
+  display: flex;
+}
+
+.nav-links li {
+  list-style-type: none;
+}
+.nav-links li a {
+  text-decoration: none;
+  color: black;
+}
+
+/* // hero section start  */
